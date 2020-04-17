@@ -1,2 +1,0 @@
-CPython 3.7.1
-IPython 7.13.0
