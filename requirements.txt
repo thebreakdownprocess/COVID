@@ -1,5 +1,5 @@
 numpy==1.18.1
 pandas==1.0.3
 plotly==4.6.0
-ipywidgets==7.5.1
+panel==0.9.5
 watermark==2.0.2
