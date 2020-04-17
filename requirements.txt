@@ -2,4 +2,4 @@ numpy==1.18.1
 pandas==1.0.3
 plotly==4.6.0
 panel==0.9.5
-watermark==2.0.2
+notebook==6.0.3
